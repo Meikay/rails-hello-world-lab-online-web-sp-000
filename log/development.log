@@ -20,3 +20,6 @@ Started GET "/hello_world" for 98.11.209.86 at 2019-10-01 19:17:08 +0000
 Processing by HwController#hello_world as HTML
   Rendering hw/hello_world.html.erb within layouts/application
   Rendered hw/hello_world.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 404ms (Views: 403.1ms | ActiveRecord: 0.0ms)
+
+
